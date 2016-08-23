@@ -20,15 +20,6 @@ Loading preload files ...
 /adm/daemons/network/dns_master...
 /adm/daemons/taskd...
 /adm/daemons/tasknpcd...
-错误讯息被拦截: 
-执行时段错误：*Bad argument 1 to call_other()
-Expected: string or array or object Got: 0.
-
-程式：/adm/daemons/tasknpcd.c 第 30 行
-物件: /adm/daemons/tasknpcd
-呼叫来自：/adm/obj/master.c 的 preload() 第 86 行，物件： /adm/obj/master
-呼叫来自：/adm/obj/master.c 的 CATCH() 第 86 行，物件： /adm/obj/master
-呼叫来自：/adm/daemons/tasknpcd.c 的 create() 第 30 行，物件： /adm/daemons/tasknpcd
 /adm/daemons/whod...
 /adm/daemons/logind...
 /adm/daemons/voted...
@@ -37,7 +28,6 @@ Expected: string or array or object Got: 0.
 Accepting connections on 0.0.0.0:6666.
 Initializations complete.
 
-d/chuenyu/dustyroad3.c: cannot replace a program with function references, ignored.
 ******** FATAL ERROR: SIGINT: Process interrupted
 FluffOS driver attempting to exit gracefully.
 crash() in master called successfully.  Aborting.

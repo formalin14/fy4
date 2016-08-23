@@ -946,3 +946,864 @@ obj/npc/wolfguard.c line 81: Undefined variable 'F_boss'
 /d/guanwai/npc/waiter.c line 96: Warning: Function check_status inherited from '/feature/damage.c' does not match current function in return type ( void vs int ) before the end of line
 /d/quicksand/desert0.c line 68: Warning: Unused local variable 'outexit' before the end of line
 /d/quicksand/desert9.c line 68: Warning: Unused local variable 'outexit' before the end of line
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 74: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 288: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 299: Warning: Unused local variable 'npc' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 74: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 288: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 299: Warning: Unused local variable 'npc' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 74: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 288: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 299: Warning: Unused local variable 'npc' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 74: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 288: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 299: Warning: Unused local variable 'npc' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 74: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 288: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 299: Warning: Unused local variable 'npc' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 74: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 288: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 299: Warning: Unused local variable 'npc' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
+/feature/alias.c line 66: Warning: Unused local variable 'room' before  
+/feature/attack.c line 47: Warning: Unused local variable 'pros' before  
+/feature/attack.c line 47: Warning: Unused local variable 'i' before  
+/feature/attack.c line 47: Warning: Unused local variable 'master_id' before  
+/feature/attack.c line 47: Warning: Unused local variable 'master_ob' before  
+/feature/damage.c line 338: Warning: Unused local variable 'i' before  
+/feature/more.c line 32: Warning: Unused local variable 'j' before  
+/feature/skill.c line 136: Warning: Unused local variable 'count' before  
+/feature/skill.c line 136: Warning: Unused local variable 'j' before  
+/feature/skill.c line 136: Warning: Unused local variable 'k' before  
+/feature/skill.c line 191: Warning: Unused local variable 'spi' before the end of line
+/feature/skill.c line 215: Warning: Unused local variable 'weak_mode' before       
+/std/char/npc.c line 104: Warning: Unused local variable 'inv' before  
+/std/char/npc.c line 344: Warning: Unused local variable 'i' before      
+/std/char/npc.c line 344: Warning: Unused local variable 'msg' before      
+/std/char/npc.c line 408: Warning: Unused local variable 'i' before      
+/feature/equip.c line 152: Warning: Unused local variable 'type' before  
+/feature/equip.c line 225: Warning: Unused local variable 'i' before  
+/std/wield.c line 186: Warning: Unused local variable 'i' before     
+/d/wolfmount/sunlake.c line 106: Warning: Unused local variable 'room' before the end of line
+/d/wolfmount/undercliff.c line 34: Warning: Unused local variable 'room' before the end of line
+/d/quicksand/desert3.c line 67: Warning: Unused local variable 'outexit' before the end of line
+/d/quicksand/npc/snake.c line 38: Warning: Unused local variable 'msg' before the end of line
+/feature/vendor.c line 44: Warning: Unused local variable 'list' before  
+/feature/vendor.c line 83: Warning: Unused local variable 'list' before  
+/d/huangshan/guangming.c line 110: Warning: Unused local variable 'inv' before the end of line
+/d/huangshan/guangming.c line 110: Warning: Unused local variable 'watchers' before the end of line
+/d/huangshan/guangming.c line 110: Warning: Unused local variable 'i' before the end of line
+/d/bat/npc/bianfu2.c line 41: Warning: Unused local variable 'msg' before the end of line
+/std/char/master.c line 62: Warning: Unused local variable 'gen' before  
+/std/char/master.c line 69: Warning: Unused local variable 'exp' before  
+/d/fy/obj/biaoyin.c line 60: Warning: Unused local variable 'ob' before   
+/d/chuenyu/west_castle.c line 58: Warning: Unused local variable 'obj' before  
+/d/chuenyu/west_garden.c line 62: Warning: Unused local variable 'obj' before  
+/d/shenshui/baishui.c line 58: Warning: Unused local variable 'room' before  
+/d/shenshui/baishui.c line 58: Warning: Unused local variable 'j' before  
+/std/bboard.c line 63: Warning: Unused local variable 'i' before  
+/std/bboard.c line 63: Warning: Unused local variable 'last_time_read' before  
+/std/bboard.c line 63: Warning: Unused local variable 'myid' before  
+/d/huangshan/qingliang.c line 80: Warning: Unused local variable 'who' before  
+/d/huangshan/qingliang.c line 80: Warning: Unused local variable 'j' before  
+/cmds/std/get.c line 142: Warning: Unused local variable 'enemy' before  
+/adm/daemons/combatd.c line 566: Warning: Unused local variable 'wounded' before  
+/adm/daemons/combatd.c line 875: Warning: Unused local variable 'counter_skill' before  
+/adm/daemons/combatd.c line 918: Warning: Unused local variable 'output' before  
+/adm/daemons/combatd.c line 918: Warning: Unused local variable 'parry_skill' before  
+/adm/daemons/combatd.c line 918: Warning: Unused local variable 'pp' before  
+/adm/daemons/combatd.c line 1183: Warning: Unused local variable 'ranCor' before  
+/adm/daemons/combatd.c line 1246: Warning: Unused local variable 'ob' before   
+/adm/daemons/combatd.c line 1570: Warning: Unused local variable 'death_msg' before  
+/cmds/std/go.c line 76: Warning: Unused local variable 'my' before  
+/cmds/std/go.c line 76: Warning: Unused local variable 'your' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 74: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 288: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 299: Warning: Unused local variable 'npc' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 75: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 146: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 146: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 146: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 146: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 146: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 146: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 146: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 183: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 183: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 289: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 300: Warning: Unused local variable 'npc' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/eventd.c line 87: Warning: Unused local variable 'j' before  
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/include/globals.h line 11: Warning: redefinition of #define LOG_DIR before #include <path.h> 
+/include/path.h line 49: Warning: redefinition of #define AREA_ZHAOZE before // added by silencer
+/include/path.h line 51: Warning: redefinition of #define INQUIRY_MSG before the end of file
+/include/globals.h line 44: Warning: redefinition of #define QUESTNPC_D before #define TASKNPC_D			
+/include/globals.h line 50: Warning: redefinition of #define CONDITION_D before // Clonable/Non-inhe
+/include/globals.h line 63: Warning: redefinition of #define VOID_OB before // Inheritable Stand
+/include/globals.h line 88: Warning: redefinition of #define VRM_SERVER before // User IDs
+/include/globals.h line 91: Warning: redefinition of #define BACKBONE_UID before // Features
+/include/globals.h line 125: Warning: redefinition of #define F_FLOWERSELLER before #define SAVE_EXTENSI
+/adm/daemons/natured.c line 394: Warning: Unused local variable 'start_end' before  
+/adm/daemons/natured.c line 410: Warning: Unused local variable 'ranDelay' before  
+/adm/daemons/ftpd.c line 2: Warning: Unknown #pragma, ignored. before the end of line
+/include/net/ftpdsupp.h line 57: Warning: Unused local variable 'file' before  
+/adm/daemons/ftpd.c line 1936: Warning: Unused local variable 'j' before the end of line
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'i' before    
+/adm/daemons/network/dns_master.c line 238: Warning: Unused local variable 'list' before    
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 259: Warning: Unused local variable 'list' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'new_mud' before  
+/adm/daemons/network/dns_master.c line 355: Warning: Unused local variable 'svc' before  
+/adm/daemons/network/dns_master.c line 464: Warning: Expression has no side effects, and the value is unused before ;
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'm' before  
+/adm/daemons/network/dns_master.c line 513: Warning: Unused local variable 'str' before  
+/adm/daemons/network/dns_master.c line 614: Warning: Unused local variable 'euid' before  
+/adm/daemons/network/dns_master.c line 653: Warning: Unused local variable 'temp' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'static_db' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'i' before  
+/adm/daemons/network/dns_master.c line 701: Warning: Unused local variable 'strs' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'j' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'usernum' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'numq' before  
+/adm/daemons/taskd.c line 127: Warning: Unused local variable 'sq' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj1' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj2' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'obj3' before  
+/adm/daemons/taskd.c line 182: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/taskd.c line 355: Warning: Unused local variable 'where' before   
+/adm/daemons/tasknpcd.c line 74: Warning: Unused local variable 'hard' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj1' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj2' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'obj3' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'next_obj' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'inv' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'target' before  
+/adm/daemons/tasknpcd.c line 145: Warning: Unused local variable 'i' before  
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'id' before the end of line
+/adm/daemons/tasknpcd.c line 182: Warning: Unused local variable 'owner' before the end of line
+/adm/daemons/tasknpcd.c line 288: Warning: Unused local variable 'where' before the end of line
+/adm/daemons/tasknpcd.c line 299: Warning: Unused local variable 'npc' before  
+/feature/alias.c line 66: Warning: Unused local variable 'room' before  
+/feature/attack.c line 47: Warning: Unused local variable 'pros' before  
+/feature/attack.c line 47: Warning: Unused local variable 'i' before  
+/feature/attack.c line 47: Warning: Unused local variable 'master_id' before  
+/feature/attack.c line 47: Warning: Unused local variable 'master_ob' before  
+/feature/damage.c line 338: Warning: Unused local variable 'i' before  
+/feature/more.c line 32: Warning: Unused local variable 'j' before  
+/feature/skill.c line 136: Warning: Unused local variable 'count' before  
+/feature/skill.c line 136: Warning: Unused local variable 'j' before  
+/feature/skill.c line 136: Warning: Unused local variable 'k' before  
+/feature/skill.c line 191: Warning: Unused local variable 'spi' before the end of line
+/feature/skill.c line 215: Warning: Unused local variable 'weak_mode' before       
+/std/char/questnpc.c line 114: Warning: Unused local variable 'inv' before  
+/std/char/questnpc.c line 294: Warning: Unused local variable 'difficulty' before  
+/std/char/questnpc.c line 294: Warning: Unused local variable 'difficulty2' before  
+/std/char/questnpc.c line 357: Warning: Unused local variable 'i' before      
+/questnpc/gong.c line 138: Warning: Unused local variable 'weapon' before   
+/feature/equip.c line 152: Warning: Unused local variable 'type' before  
+/feature/equip.c line 225: Warning: Unused local variable 'i' before  
+/std/wield.c line 186: Warning: Unused local variable 'i' before     
+/std/char/npc.c line 104: Warning: Unused local variable 'inv' before  
+/std/char/npc.c line 344: Warning: Unused local variable 'i' before      
+/std/char/npc.c line 344: Warning: Unused local variable 'msg' before      
+/std/char/npc.c line 408: Warning: Unused local variable 'i' before      
+/std/char/master.c line 62: Warning: Unused local variable 'gen' before  
+/std/char/master.c line 69: Warning: Unused local variable 'exp' before  
+/adm/daemons/whod.c line 31: Warning: Unused local variable 'me' before  
+/adm/daemons/whod.c line 154: Warning: Unused local variable 'ppl_cnt' before  
+/adm/daemons/whod.c line 191: Warning: Unused local variable 'j' before   
+/adm/daemons/logind.c line 372: Warning: Unused local variable 'name' before  
+/adm/daemons/logind.c line 483: Warning: Unused local variable 'n' before  
+/adm/daemons/logind.c line 569: Warning: Unused local variable 'room' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'file' before the end of line
+/adm/daemons/logind.c line 595: Warning: Unused local variable 'tempip' before the end of line
+/adm/daemons/logind.c line 766: Warning: Unused local variable 'number' before  
+/std/room.c line 215: Warning: Unused local variable 'item_desc' before  
