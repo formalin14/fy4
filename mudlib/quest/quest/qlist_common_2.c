@@ -52,7 +52,7 @@ mapping *quest = ({
                 "quest_type":           "É±",
                 "exp_bonus":            1730,
         ]),
-        ([      "quest":                "ÃÎÃÂ",
+        ([      "quest":                "ÃÎÃÂ",
                 "quest_type":           "É±",
                 "exp_bonus":            1730,
         ]),
@@ -267,7 +267,7 @@ mapping *quest = ({
 //end 2480
         ([      "quest":                "òùòðµºÎÄÑ§Æª",
                 "quest_type":           "Ñ°",
-                "exp_bonus":            2580,
+                "exp_bonus":            2580,
         ]),
         ([      "quest":               YEL"éÄÀÆ"NOR,
                 "quest_type":           "Ñ°",

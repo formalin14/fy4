@@ -60,7 +60,7 @@ int do_peep(string arg){
                 }
                 tell_object(me,CYN"原来这儿与鹦鹉楼血奴的屋子是连着的！！！\n"NOR);
                 tell_object(me, view(__DIR__"birdhouse2"));
-                me->set("parrot/宋妈妈家的秘密",1);
+                me->set("parrot/宋妈妈家的秘密",1);
                 return 1;
         }
         return 0;

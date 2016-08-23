@@ -67,7 +67,7 @@ int valid_leave(object me, string dir)
                 message_vision(HIW"山风越刮越大，夹着漫天风雪，冰刀一般割着$N每一寸肌肤......\n$N机凌凌的打了个冷战。\n"NOR,me);
                 if((int)me->query("kee")<dam_kee ||(int)me->query("kee")<dam_kee||(int)me->query("kee")<dam_kee) {
                         me->unconcious();
-                }
+                }
                 else {
                         me->receive_damage("kee", dam_kee);
                         me->receive_damage("gin", dam_gin);

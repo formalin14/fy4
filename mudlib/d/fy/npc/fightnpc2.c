@@ -162,7 +162,7 @@ void auto_npc_setup(string name, int basic, int special, int auto_weapon, string
                 if (auto_weapon) carry_object(weapon_dir+"staff")->wield();
                 return;
         }
-        
+        
         if (my_char != "all")  random_choose= my_char; 
 // below are fighter_w types.   
         if (char_type=="fighter_w") {           

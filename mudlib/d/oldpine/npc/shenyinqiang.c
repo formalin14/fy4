@@ -63,7 +63,7 @@ void create()
 smart_fight()
 {
         int i,j;
-        object *enemy;
+        object *enemy;
         enemy = this_object()->query_enemy();
         i = sizeof(enemy);
         for(j=0;j<sizeof(enemy);j++)

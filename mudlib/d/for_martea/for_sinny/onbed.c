@@ -171,7 +171,7 @@ int do_sleep(string  arg)
         return  1; 
 } 
 int  wakeup(object  me,object slept ,object  where)
-{
+{
         int  kee_cost,times_sleep;
     object  obj; 
         kee_cost=50+5*((int)me->query("str")-(int)me->query("con"));

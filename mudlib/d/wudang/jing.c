@@ -67,7 +67,7 @@ int search_obj(object me)
                 me->add("combat_exp",5000);
                 me->add("potential",900);
                 tell_object(me,"好样的，你得到150点评价，900点潜能，5000点经验！\n");
-                tell_object(me,"不过，还是快离开这里吧。\n");
+                tell_object(me,"不过，还是快离开这里吧。\n");
             }
         }
         else message_vision("$N什么都没找到。\n", me);

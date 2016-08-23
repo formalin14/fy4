@@ -505,7 +505,7 @@ void auto_npc_setup(string name, int basic, int special, int auto_weapon, string
                                 set("marks/hammerwhip",1); 
                                 set("perform_attack","whip.tianleiyiji");
                                 set("perform_attack_2","unarmed.luanpofeng");
-                                if (auto_weapon) carry_object(weapon_dir+"whip")->wield();      
+                                if (auto_weapon) carry_object(weapon_dir+"whip")->wield();      
                            break;  
 // below are fighter_u types:                                   
                 case "dragonstrike": 
@@ -760,7 +760,7 @@ smart_fight()
                                         this_object()->perform_action(pfm_weapon_attack);       
                         }
                 }
-        }
+        }
 }  
 ask_help() {
         object me, *enemy, *inv, ob;

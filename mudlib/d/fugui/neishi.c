@@ -163,7 +163,7 @@ void event(object jin,object jia,object fig,object me,int count)
                         jin->ccommand("say 很好，现在案子总算破了。");
                         jia->ccommand("sigh");
                         jia->ccommand("say 原来麦老广就是凤栖梧，真是没有想到。");
-                        jin->ccommand("say 这人是凤栖梧的同伙，给我拿下。");
+                        jin->ccommand("say 这人是凤栖梧的同伙，给我拿下。");
                 }
                 else if (count == 1)
                 {

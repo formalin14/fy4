@@ -854,7 +854,7 @@ mapping *quest = ({
         ([      "quest":                "Ì«°×ÒÝ",
                 "quest_type":           "É±",
                 "exp_bonus":            680,
-        ]),
+        ]),
         ([      "quest":                "ÇàÁú»áµÜ×Ó",
                 "quest_type":           "É±",
                 "exp_bonus":            680,

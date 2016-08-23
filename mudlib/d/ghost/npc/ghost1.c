@@ -57,7 +57,7 @@ int do_tell(string arg)
         }
         return 0;
 } 
-int greeting(object me)
+int greeting(object me)
 {
         if( (string)me->query("family/family_name")!="幽灵山庄" ) 
                 message_vision(HIY "\n$N对$n说道：把你的合约给我。\n"NOR, this_object(), me);

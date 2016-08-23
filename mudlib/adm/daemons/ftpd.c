@@ -174,7 +174,7 @@
  *
  * 94.05.21 - Robocoder@TMI-2
  * o Bumprev'd to 5.1
- * o Featuritus attack continues...coded "rnfr", "rnto", and "help" commands
+ * o Featuritus attack continues...coded "rnfr", "rnto", and "help" commands
  * o cmdtab for above "help" derived from Berkeley source (ftpcmd.y  5.23)
  * o Added CHECK_NARGS() to ftpdsupp.h, and used together with command[1]
  *   (as opposed to tmp) to get a more consistent reply format

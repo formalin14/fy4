@@ -531,7 +531,7 @@ string  do_choose_attack(object target) {
                 if (!check_health(me,60)&& !me->query("perform_busy_d")) {
                                 message_vision(CYN"$N皱了皱眉说：“不错，可做我对手。“\n"NOR,me);
                                 me->set("perform_busy_u",me->query("perform_unarmed_attack3"));
-                                me->set("perform_busy_d",me->query("perform_unarmed_attack"));
+                                me->set("perform_busy_d",me->query("perform_unarmed_attack"));
                         }
                 if (!check_health(target,20) && me->query_temp("timer/hyakki")+60<time()) 
                                 type=me->query("perform_weapon_attack3");
@@ -1330,7 +1330,7 @@ int enemy_type(object enemy) {
         //      let them live a while.
         case "wudang":
         case "bonze":
-        case "beggar":
+        case "beggar":
         case "yinshi":
         case "shenshui":
         case "swordsman":

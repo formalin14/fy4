@@ -1517,7 +1517,7 @@ object *resort_enemy() {
         num=sizeof(new_enemy);
         if (num>1) {
         for (j=0;j<num;j++) {   
-                lowest=100000000;
+                lowest=100000000;
                 for (k=0;k<sizeof(new_enemy);k++) {
                         if (new_enemy[k]->query("combat_exp")<lowest) {
                                 mem=new_enemy[k];

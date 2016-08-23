@@ -74,5 +74,5 @@ void do_flush(object me)
         if(!objectp(room)) room = load_object(__DIR__"beach");
         me->move(room);
     }
-}
+}
 */        

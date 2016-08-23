@@ -596,7 +596,7 @@ void auto_npc_setup(string name, int basic, int special, int auto_weapon, string
                                 set_name("½£Å«",({name}));
                                 set("skill_type_w","sword/softsword");
                                 set("skill_type_u","yue-strike");
-                                set_skill("yue-strike",special);
+                                set_skill("yue-strike",special);
                                 set_skill("shadowsteps",special+50);
                                 set_skill("softsword",special);
                                 map_skill("sword","softsword");
@@ -1280,7 +1280,7 @@ auto_smart_fight()
 //      start with lowest exp non-guard enemy till 2x exp. skip the rest highest exp 
 //      ones,
 //      pfm unarmed busy on high exp enemies if having friends with you
-//      pfm attack on busied ones.
+//      pfm attack on busied ones.
 //      (2) how to perform attack?
 //      perform on player first rather than guard.
 //      perform on those weakest one first.

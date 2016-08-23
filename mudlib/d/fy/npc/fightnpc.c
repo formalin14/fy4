@@ -48,7 +48,7 @@ void auto_npc_setup(string name, int basic, int special, int auto_weapon, string
 //      auto-weapon --- 0: Do not define weapon; 1: auto define a weapon using sword, blade ....
 //      weapon_dir ---- when auto define weapon, the directory of weapon obj located, for exampe, "/d/fy/"
 //      char_type ---- fighter_weapon,fighter_unarmed,healer,ironman,magician,zombie-wiper,
-//              if you call smart_fight() in chat_chance, NPC will react according to this setting.
+//              if you call smart_fight() in chat_chance, NPC will react according to this setting.
 //              healer: heal friend in fight, ironman: have iron-cloth
 //              magician: using sanqing skills.
 //              char_num:
